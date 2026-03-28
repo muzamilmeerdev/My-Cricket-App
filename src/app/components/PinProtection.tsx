@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Lock, Settings } from 'lucide-react';
 
-const DEFAULT_PIN = '1234';
+const DEFAULT_PIN = '68926456';
 const PIN_KEY = 'cricket_organizer_pin';
 const AUTH_KEY = 'cricket_auth_session';
 
